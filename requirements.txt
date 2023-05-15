@@ -1,0 +1,6 @@
+librosa~=0.10.0.post2
+soundfile~=0.12.1
+numpy~=1.23.5
+PyAudio~=0.2.13
+scipy~=1.10.1
+tqdm~=4.65.0
